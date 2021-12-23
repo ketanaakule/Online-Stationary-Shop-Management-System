@@ -1,0 +1,86 @@
+*{
+      margin: 0;
+      padding: 0;
+}
+div.main{
+      width: 400px;
+     
+      margin: 70px auto 10px auto;
+}
+h2{
+      text-align: center;
+      padding: 10px;
+
+}
+div.register{
+
+      background-color: antiquewhite;
+      width: 100%;
+      font-size: 18px;
+      border-radius: 10px;
+      border: 1px solid rgb(29, 28, 28);
+      box-shadow: 2px 2px 15px;
+
+}
+form#register{
+      margin: 20px;
+}
+label{
+      font-size: 20px;
+
+}
+input#name{
+      width: 300px;
+      border: 1px solid rgb(29, 28, 28);
+      border-radius: 3px;
+      outline: 0;
+      padding: 7px;
+}
+input#mail{
+      width: 300px;
+      border: 1px solid rgb(29, 28, 28);
+      border-radius: 3px;
+      outline: 0;
+      padding: 7px;
+}
+input#password{
+      width: 300px;
+      border: 1px solid rgb(29, 28, 28);
+      border-radius: 3px;
+      outline: 0;
+      padding: 7px;
+}
+input#contact{
+      width: 300px;
+      border: 1px solid rgb(29, 28, 28);
+      border-radius: 3px;
+      outline: 0;
+      padding: 7px;
+}
+input#address{
+      width: 300px;
+      border: 1px solid rgb(29, 28, 28);
+      border-radius: 3px;
+      outline: 0;
+      padding: 7px;
+}
+input#submit{
+      
+      width: 150px;
+      border: 1px solid rgb(29, 28, 28);
+      border-radius: 3px;
+      outline: 0;
+      padding: 7px;
+      background-color: rgb(230, 153, 53);
+      cursor: pointer;
+}
+input#login{
+      
+      width: 150px;
+      border: 1px solid rgb(29, 28, 28);
+      border-radius: 3px;
+      outline: 0;
+      padding: 7px;
+      background-color: rgb(230, 153, 53);
+      cursor: pointer;
+}
